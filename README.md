@@ -30,6 +30,9 @@ Trevor Rowe
 ## End
 
 Special thanks to Trevor Rowe
+
 Justin Oeder
+
 http://beyondhosting.net
+
 Managed Public Cloud Provider
