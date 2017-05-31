@@ -4,7 +4,7 @@ Purpose: Creates DNS entries for the interfaces on Juniper devices using the XML
 
 ## Installation
 
-Install Python
+Install Python.  Nothing more required.
 
 ## Usage
 
