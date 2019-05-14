@@ -63,6 +63,3 @@ for interface in configRoot[0]:
             
             
 Credit to Trevor Rowe
-Justin Oeder
-http://beyondhosting.net
-Managed Public Cloud Provider
